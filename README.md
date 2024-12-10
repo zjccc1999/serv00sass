@@ -32,6 +32,9 @@
 暂时还不清楚 `alist. zjxx.nyc.mn` `alist.zjxxx.us.kg`   *alist* 这个前缀不一样行不行，懒得测试
 
 
+![图片alt](https://github.com/zjccc1999/serv00sass/blob/main/%E4%BC%98%E9%80%89.png "图片title")。
+
+
 
 
 
