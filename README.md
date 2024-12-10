@@ -29,7 +29,8 @@
 这时候有优选 了 
 
 
-暂时还不知清楚
+暂时还不清楚 `alist. zjxx.nyc.mn` `alist.zjxxx.us.kg`   *alist* 这个前缀不一样行不行，懒得测试
+
 
 
 
